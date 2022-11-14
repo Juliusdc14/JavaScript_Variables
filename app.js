@@ -9,7 +9,7 @@ let lastName = "Cornelius";
 var age = 36;
 
 // Exercise 2
-let fullName = firstName + "" + lastName;
+let fullName = firstName + " " + lastName;
 console.log(fullName);
 fullName = `${firstName} ${lastName}`;
 
